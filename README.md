@@ -1,5 +1,5 @@
 # music-collection-scraper
-A javascript program to quickly transfer your music collection from one web platform to Youtube Music.
+A javascript program to quickly transfer your music collection from any platform to Youtube Music.
 
 It's possible to adapt this to be used with other music platforms with changes to the specifics of wach website.
 
